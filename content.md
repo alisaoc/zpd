@@ -1,6 +1,6 @@
 ## Izvedot number guessing spēli ar Python programmēšanas valodu
 
-### Saturs
+### Saturs.
 
 #### 1. Aprakstīt spēli
 #### 2. Spēles loģika
